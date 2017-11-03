@@ -1,8 +1,8 @@
 {
-    "name": "tutorialspoint/hello-world",
+    "name": "herringsoft/hello-world",
     "authors": [
         {
-            "name": "tutorialspoint"
+            "name": "herringsoft"
         }
     ],
     "require": {},
